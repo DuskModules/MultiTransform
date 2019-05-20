@@ -1,7 +1,7 @@
 # MultiTransform
-<module_summary_info>
+MultiTransform contains logic scripts that allow multiple different scripts to adjust a target transform's position, rotation and scale without conflicting with each other. A behaviour provided contains all 3 logic scripts for easier implementation.
 
-<extra_module_info>
+Ever had that annoying moment that two different scripts had to move around the same transform? Perhaps one actually moves it, while the other provides a translation effect when it gets hit, like a shake. MultiTransform solves it.
 
 > When using this module, make sure to **Star** this repository. I would appreciate it if you gave credits to **Eric van Gastel** somewhere in your product, but I won't hold it against you if you don't. That said; **this module is not allowed to be sold anywhere!**
 
